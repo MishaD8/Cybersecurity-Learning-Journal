@@ -18,8 +18,8 @@ It includes **courses, hands-on labs, projects, and certification prep**.
 ## **📅 Learning Progress Tracker**  
 
 ### **📌 1. Python for Cybersecurity**
-✅ **Python Basics** (Udemy)  
-✅ **Boto3 (AWS Security Automation)**  
+🔄 **Python Basics** (Udemy)  
+🔄 **Boto3 (AWS Security Automation)**  
 ✅ **Security Automation Scripts**  
 🔄 Write **IAM Policy Checker**  
 🔄 Write **CloudTrail Log Analyzer**  
@@ -27,15 +27,15 @@ It includes **courses, hands-on labs, projects, and certification prep**.
 ---
 
 ### **📌 2. Linux for Security & Cloud**
-✅ **Linux Fundamentals (TryHackMe, Udemy)**  
-✅ **Command Line Mastery** (OverTheWire: Bandit)  
+🔄 **Linux Fundamentals (TryHackMe, Udemy)**  
+🔄 **Command Line Mastery** (OverTheWire: Bandit)  
 🔄 **Privilege Escalation (TryHackMe)**  
 🔄 **Linux Security Hardening (Lynis, Auditd)**  
 
 ---
 
 ### **📌 3. Cloud Security (AWS, Azure, GCP)**
-✅ **AWS IAM, S3 Security, CloudTrail**  
+🔄 **AWS IAM, S3 Security, CloudTrail**  
 🔄 **AWS Security Hands-on Labs (Udemy)**  
 🔄 **Azure Security (Defender, Security Center)**  
 🔄 **Google Cloud Security Basics**  
@@ -43,7 +43,7 @@ It includes **courses, hands-on labs, projects, and certification prep**.
 ---
 
 ### **📌 4. Cybersecurity Certifications**
-✅ **CompTIA Security+ Course** (Udemy)  
+🔄 **CompTIA Security+ Course** (Udemy)  
 🔄 **Security+ Exam Prep (Exam-Labs)**  
 🔄 **AWS Security Specialty Prep (Udemy, AWS Training)**  
 🔄 **Microsoft AZ-500 Exam Prep**  
@@ -80,5 +80,5 @@ It includes **courses, hands-on labs, projects, and certification prep**.
 ---
 
 ## 📌 Connect with Me  
-🔹 **GitHub:** [Your GitHub Profile](https://github.com/MishaD8)  
-🔹 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/mykhaylo-dyachenko) 
+🔹 [GitHub Profile](https://github.com/MishaD8)  
+🔹 [LinkedIn](https://www.linkedin.com/in/mykhaylo-dyachenko) 
