@@ -20,9 +20,9 @@ It includes **courses, hands-on labs, projects, and certification prep**.
 ### **📌 1. Python for Cybersecurity**
 🔄 **Python Basics** (Udemy)  
 🔄 **Boto3 (AWS Security Automation)**  
-✅ **Security Automation Scripts**  
-🔄 Write **IAM Policy Checker**  
-🔄 Write **CloudTrail Log Analyzer**  
+🔄 **Security Automation Scripts**  
+🔄 **IAM Policy Checker**  
+🔄 **CloudTrail Log Analyzer**  
 
 ---
 
