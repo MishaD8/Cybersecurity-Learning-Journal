@@ -75,7 +75,7 @@ It includes **courses, hands-on labs, projects, and certification prep**.
 ## 📌 How to Use This Journal  
 🔹 Every week, I **update progress** and mark completed tasks with ✅.  
 🔹 Hands-on projects are stored in the `Projects` folder.  
-🔹 Notes and study materials are stored in **Obsidian** and summarized here.  
+
 
 ---
 
